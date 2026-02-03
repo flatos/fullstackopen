@@ -1,0 +1,39 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "423434234",
+      "id": "1"
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": "2"
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": "3"
+    },
+    {
+      "id": "3c47",
+      "name": "Frank",
+      "number": "23424414"
+    },
+    {
+      "id": "e6a9",
+      "name": "Glap",
+      "number": "34434345"
+    },
+    {
+      "id": "c589",
+      "name": "Globnik",
+      "number": "45345345"
+    },
+    {
+      "id": "f256",
+      "name": "Glob",
+      "number": "34535"
+    }
+  ]
+}
